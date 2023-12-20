@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyejN5NHZoMXF3bTBuOHRmcnR5cW92Zjd5YTF0ZWpqazZ1Z216OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m0MfjLtKOgTPG/giphy-downsized-large.gif" width="100"/>
 </div>
 
-https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif
 <!--
 **skomskiy/skomskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
