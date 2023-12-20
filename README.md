@@ -6,9 +6,9 @@
 
 <div align="center">
 - 🙋‍♂️ My name is Vitalii <br>
-- 🖥 I'm Frontend/Shopify developer
-- 🔭 I’m currently working in Split Dev
-- 🧬 I’m currently learning Hydrogen/Oxygen
+- 🖥 I'm Frontend/Shopify developer <br>
+- 🔭 I’m currently working in Split Dev <br>
+- 🧬 I’m currently learning Hydrogen/Oxygen <br>
 </div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/vitalii-skomskyi/">
