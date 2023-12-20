@@ -11,7 +11,11 @@
 - 🧬 I’m currently learning Hydrogen/Oxygen <br>
 </div>
 
-<div style="margin-top: 10px;" align="center" id="badges">
+<div align="center" >
+
+</div>
+
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/vitalii-skomskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
