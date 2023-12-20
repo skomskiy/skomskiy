@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif" width="100"/>
 </div>
 
+https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif
 <!--
 **skomskiy/skomskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
