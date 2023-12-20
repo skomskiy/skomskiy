@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-- 🙋‍♂️ My name is Vitalii
+- 🙋‍♂️ My name is Vitalii <br>
 - 🖥 I'm Frontend/Shopify developer
 - 🔭 I’m currently working in Split Dev
 - 🧬 I’m currently learning Hydrogen/Oxygen
